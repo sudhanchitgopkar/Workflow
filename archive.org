@@ -1,3 +1,2099 @@
+# Spring 2020
+* 04.25.21
+** School
+*** CSCI2720
+**** DONE Final Exam
+SCHEDULED: <2021-04-30 Fri>
+*** CSCI2670
+**** DONE HW4
+DEADLINE: <2021-05-03 Mon>
+**** DONE HW00
+DEADLINE: <2021-04-30 Fri>
+*** INTL4710
+**** DONE Email
+**** DONE Mod6 Participation Assn
+CLOSED: [2021-04-28 Wed 10:41]
+*** INTL4260
+**** DONE Research Paper
+DEADLINE: <2021-05-07 Fri 12:00>
+**** DONE WAITING Final Exam
+SCHEDULED: <2021-05-03 Mon 10:20>
+*** INTL4440
+**** DONE Term Paper
+DEADLINE: <2021-05-03 Mon>
+** Orgs
+*** MUN
+**** DONE Instagram Posts
+- [X] AIRMUNC
+- [X] New Sec
+**** DONE Formal
+CLOSED: [2021-04-28 Wed 10:41] SCHEDULED: <2021-04-27 Tue 20:00>
+**** DONE Sec Interview
+CLOSED: [2021-04-27 Tue 12:47] SCHEDULED: <2021-04-25 Sun 18:30>
+*** Finch [100%]
+*** UGAHacks [100%]
+**** DONE Directors Meeting
+SCHEDULED: <2021-04-28 Wed 21:00>
+**** DONE Sponsorship Packet
+**** DONE Sponsorship Meeting
+CLOSED: [2021-04-27 Tue 12:47] SCHEDULED: <2021-04-26 Mon 19:00>
+*** SSRL
+**** DONE C Tutorial
+*** FRC
+**** DONE WAITING DA Interview
+**** DONE Spring Banquet
+CLOSED: [2021-04-27 Tue 12:47] SCHEDULED: <2021-04-25 Sun 18:00>
+** Misc
+*** DONE WAITING PLA Interview
+SCHEDULED: <2021-05-04 Tue 10:00>
+*** DONE CS UTA App
+DEADLINE: <2021-07-31 Sat 09:00>
+* 04.19.21
+** School
+*** CSCI2720 [100%]
+**** ABANDONED AVL Tree Review
+CLOSED: [2021-04-28 Wed 10:44]
+**** ABANDONED Red & Black Tree Review
+CLOSED: [2021-04-28 Wed 10:44]
+*** CSCI2670 [100%]
+**** DONE CW13
+CLOSED: [2021-04-21 Wed 00:32] DEADLINE: <2021-04-20 Tue>
+*** INTL4710 [100%]
+*** INTL4440 [100%]
+**** ABANDONED Readings
+CLOSED: [2021-04-28 Wed 10:44]
+- [ ] Ehrman
+- [ ] Olsen
+- [ ] Wettering
+- [ ] Taylor & Snow
+- [ ] Johnson
+- [ ] Cilluffo & Marks
+- [ ] Johnson
+- [ ] Barry
+- [ ] Church
+- [ ] Colby
+- [ ] Holm
+- [ ] Johnson
+- [ ] Johnson
+*** INTL4260 [100%]
+
+**** ABANDONED Readings
+CLOSED: [2021-04-28 Wed 10:44]
+- [ ] Gadarian
+- [ ] Gallagher
+- [ ] Eichenberg
+- [ ] Cohn
+- [ ] Zak
+- [ ] Burneau & Sax
+** Orgs
+*** MUN [100%]
+**** MIGRATED AIRMUNC Post
+CLOSED: [2021-04-28 Wed 10:44]
+**** MIGRATED Sec Post
+CLOSED: [2021-04-28 Wed 10:44]
+**** DONE Election Meeting
+CLOSED: [2021-04-21 Wed 00:32] SCHEDULED: <2021-04-20 Tue 20:00>
+**** DONE Sec App
+CLOSED: [2021-04-25 Sun 13:46] DEADLINE: <2021-04-24 Sat>
+*** Finch [100%]
+*** UGAHacks [100%]
+**** DONE Directors Meeting
+CLOSED: [2021-04-25 Sun 13:46] SCHEDULED: <2021-04-21 Wed 21:00>
+**** DONE Sponsorship Meeting
+SCHEDULED: <2021-04-19 Mon 19:00>
+*** FRC [100%]
+**** DONE DA Application
+CLOSED: [2021-04-25 Sun 13:46] DEADLINE: <2021-04-23 Fri>
+*** SSRL [100%]
+**** DONE MOPS Meeting
+CLOSED: [2021-04-21 Wed 19:21] SCHEDULED: <2021-04-23 Fri 17:30>
+**** DONE MEMESat Meeting
+CLOSED: [2021-04-21 Wed 19:21] SCHEDULED: <2021-04-21 Wed 19:00>
+**** ABANDONED CET Dependency Issue
+CLOSED: [2021-04-21 Wed 19:21] DEADLINE: <2021-04-21 Wed>
+** Misc [100%]
+*** DONE Iliev Meeting
+CLOSED: [2021-04-21 Wed 19:20] SCHEDULED: <2021-04-21 Wed 15:00>
+*** DONE Show
+CLOSED: [2021-04-25 Sun 13:46] SCHEDULED: <2021-04-22 Thu 15:30>
+*** DONE SPIA URC
+CLOSED: [2021-04-25 Sun 13:46] SCHEDULED: <2021-04-23 Fri 09:00>
+*** ABANDONED Saglam Meeting
+CLOSED: [2021-04-25 Sun 17:17] SCHEDULED: <2021-04-22 Thu 10:00>
+** Tutoring
+* 04.12.21
+** School
+*** CSCI2720
+**** DONE Assn05
+CLOSED: [2021-04-20 Tue 11:37] DEADLINE: <2021-04-18 Sun>
+**** DONE Quiz 04
+CLOSED: [2021-04-15 Thu 21:39] SCHEDULED: <2021-04-15 Thu>
+*** CSCI2670
+**** DONE CW12
+CLOSED: [2021-04-16 Fri 10:47]
+**** DONE Exam 2
+CLOSED: [2021-04-13 Tue 16:26] SCHEDULED: <2021-04-13 Tue 12:45>
+*** INTL4710
+**** DONE Quiz
+CLOSED: [2021-04-13 Tue 10:38] SCHEDULED: <2021-04-13 Tue>
+**** DONE Survey
+CLOSED: [2021-04-12 Mon 16:05] DEADLINE: <2021-04-13 Tue>
+**** DONE Participation
+CLOSED: [2021-04-13 Tue 10:38] DEADLINE: <2021-04-13 Tue>
+**** DONE Slide Arrangement
+CLOSED: [2021-04-13 Tue 02:37] DEADLINE: <2021-04-12 Mon>
+*** INTL4440
+**** MIGRATED Readings
+CLOSED: [2021-04-20 Tue 11:53]
+- [ ] Ehrman
+- [ ] Olsen
+- [ ] Wettering
+- [ ] Taylor & Snow
+- [ ] Johnson
+- [ ] Cilluffo & Marks
+- [ ] Johnson
+- [ ] Barry
+- [ ] Church
+- [ ] Colby
+- [ ] Holm
+- [ ] Johnson
+- [ ] Johnson
+*** INTL4260
+**** MIGRATED Readings
+CLOSED: [2021-04-21 Wed 22:13]
+- [ ] Gadarian
+- [ ] Gallagher
+- [ ] Eichenberg
+- [ ] Cohn
+- [ ] Zak
+- [ ] Burneau & Sax
+*
+**** DONE Group Presentation
+CLOSED: [2021-04-20 Tue 11:38] DEADLINE: <2021-04-19 Mon>
+** Orgs
+*** MUN
+**** DONE Insta Posts
+CLOSED: [2021-04-20 Tue 11:37] DEADLINE: <2021-04-13 Tue>
+- [X] ChoMUN
+- [X] VICS
+- [X] SRMUN
+*** Finch
+**** DONE Style Guide Formatting
+CLOSED: [2021-04-16 Fri 10:47] DEADLINE: <2021-04-16 Fri>
+*** UGAHacks
+**** DONE Fr Interview
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 16:30>
+**** DONE Saba Interview
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 12:00>
+**** DONE Meet Interview
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 11:30>
+**** DONE Director Meeting
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 21:00>
+**** DONE UGAHacks Acceptances
+CLOSED: [2021-04-15 Thu 16:21] DEADLINE: <2021-04-14 Wed>
+**** DONE Kewal Interview
+CLOSED: [2021-04-12 Mon 23:33] SCHEDULED: <2021-04-12 Mon 18:00>
+*** FRC
+**** DONE Compost Learning
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 17:30>
+**** ABANDONED Cookie Night
+CLOSED: [2021-04-20 Tue 11:37] SCHEDULED: <2021-04-18 Sun 18:00>
+** Misc
+*** DONE BC SC
+CLOSED: [2021-04-15 Thu 16:21]
+*** DONE Dress Rehearsal
+CLOSED: [2021-04-20 Tue 11:37] SCHEDULED: <2021-04-18 Sun 16:00>
+*** DONE Model Workshop
+CLOSED: [2021-04-11 Sun 16:43] SCHEDULED: <2021-04-11 Sun>
+*
+*** DONE SPIA URC Paper
+CLOSED: [2021-04-12 Mon 23:33] DEADLINE: <2021-04-12 Mon>
+* 04.05.21
+** School
+*** CSCI2720 [100%]
+**** MIGRATED Assn05
+CLOSED: [2021-04-12 Mon 09:55]
+**** MIGRATED Quiz 04
+CLOSED: [2021-04-12 Mon 09:55] SCHEDULED: <2021-04-15 Thu>
+*** CSCI2670 [100%]
+**** DONE CW11
+DEADLINE: <2021-04-06 Tue>
+*** INTL4260 [100%]
+**** MIGRATED Readings
+CLOSED: [2021-04-12 Mon 09:59]
+- [ ] Gadarian
+- [ ] Gallagher
+- [ ] Eichenberg
+- [ ] Cohn
+- [ ] Zak
+- [ ] Burneau & Sax
+*** INTL4440
+**** DONE eLC Lecture
+CLOSED: [2021-04-07 Wed 20:29] DEADLINE: <2021-04-07 Wed 13:50>
+**** MIGRATED Readings
+CLOSED: [2021-04-12 Mon 09:57]
+- [ ] Ehrman
+- [ ] Olsen
+- [ ] Wettering
+- [ ] Taylor & Snow
+- [ ] Johnson
+- [ ] Cilluffo & Marks
+- [ ] Johnson
+- [ ] Barry
+- [ ] Church
+- [ ] Colby
+- [ ] Holm
+- [ ] Johnson
+- [ ] Johnson
+** Orgs
+*** MUN [100%]
+**** DONE Individual Pictures
+CLOSED: [2021-04-12 Mon 09:48]
+- [X] Me
+- [X] Miranda
+- [X] Namrata
+- [X] Ian
+- [X] Sarah
+- [X] Sophia
+- [X] Albert
+- [X] Sydney
+- [X] Meredith
+**** MIGRATED Instagram Posts
+CLOSED: [2021-04-12 Mon 09:37]
+- [ ] SRMUN
+- [ ] VICS
+- [ ] ChoMUN
+*** Finch [100%]
+**** DONE Style Guide Meeting
+CLOSED: [2021-04-08 Thu 00:59] SCHEDULED: <2021-04-07 Wed 22:30>
+**** MIGRATED Style Guide Formatting
+CLOSED: [2021-04-12 Mon 09:45]
+*** UGAHacks [100%]
+**** DONE Directors Meeting
+CLOSED: [2021-04-07 Wed 21:43] SCHEDULED: <2021-04-07 Wed 21:00>
+**** DONE Rich Interview
+CLOSED: [2021-04-07 Wed 20:30] SCHEDULED: <2021-04-07 Wed 18:00>
+**** DONE Elodie Interview
+CLOSED: [2021-04-07 Wed 20:30] SCHEDULED: <2021-04-07 Wed 16:30>
+**** DONE Diversity Fund Response
+CLOSED: [2021-04-07 Wed 01:28] DEADLINE: <2021-04-06 Tue>
+*** FRC [60%]
+**** DONE Open House
+CLOSED: [2021-04-07 Wed 20:29] SCHEDULED: <2021-04-07 Wed 19:00>
+**** DONE Mindfulness Hour
+CLOSED: [2021-04-07 Wed 20:29] SCHEDULED: <2021-04-07 Wed 19:00>
+**** DONE Siddhi App Review
+CLOSED: [2021-04-07 Wed 01:28] DEADLINE: <2021-04-06 Tue>
+*** SSRL [100%]
+**** DONE MOPS Meeting
+CLOSED: [2021-04-07 Wed 20:29] SCHEDULED: <2021-04-07 Wed 17:30>
+**** DONE HAM Radio Exam
+SCHEDULED: <2021-04-06 Tue 18:00>
+** Misc
+*** DONE Class Registration
+CLOSED: [2021-04-11 Sun 16:43] SCHEDULED: <2021-04-08 Thu 08:45>
+*** DONE Iliev Meeting
+CLOSED: [2021-04-07 Wed 20:29] SCHEDULED: <2021-04-07 Wed 15:00>
+*** DONE Class Consideration
+CLOSED: [2021-04-08 Thu 00:59]
+*** MIGRATED URC Paper
+CLOSED: [2021-04-12 Mon 09:44]
+** Tutoring
+*** DONE Noah
+CLOSED: [2021-04-07 Wed 12:35] SCHEDULED: <2021-04-07 Wed 12:00>
+*** DONE Mebin
+CLOSED: [2021-04-11 Sun 16:43]
+*** DONE Debate 1
+CLOSED: [2021-04-11 Sun 16:43]
+*** DONE Debate 2
+CLOSED: [2021-04-11 Sun 16:43]
+* 03.29.21
+** School
+*** CSCI2720 [100%]
+**** DONE Assn04
+CLOSED: [2021-04-05 Mon 10:32] DEADLINE: <2021-04-04 Sun>
+**** DONE Quiz3
+CLOSED: [2021-04-02 Fri 19:01] SCHEDULED: <2021-04-01 Thu>
+- covers Binary Search Trees & recursion
+*** CSCI2670 [100%]
+**** DONE CW10
+CLOSED: [2021-03-30 Tue 01:08] DEADLINE: <2021-04-02 Fri>
+**** ABANDONED Correct CW2
+CLOSED: [2021-03-30 Tue 01:14]
+*** INTL4440 [100%]
+**** MIGRATED Readings
+CLOSED: [2021-04-12 Mon 09:57]
+- [ ] Ehrman
+- [ ] Olsen
+- [ ] Wettering
+- [ ] Taylor & Snow
+- [ ] Johnson
+- [ ] Cilluffo & Marks
+- [ ] Johnson
+- [ ] Barry
+- [ ] Church
+- [ ] Colby
+- [ ] Holm
+**** DONE Online Lecture
+CLOSED: [2021-03-30 Tue 23:45] DEADLINE: <2021-03-31 Wed>
+*** INTL4710 [100%]
+**** DONE Chair Email
+CLOSED: [2021-03-29 Mon 19:15]
+*** INTL4260 [100%]
+**** MIGRATED Readings
+CLOSED: [2021-04-06 Tue 23:11] DEADLINE: <2021-04-02 Fri>
+- [ ] Gadarian
+- [ ] Gallagher
+- [ ] Eichenberg
+- [ ] Cohn
+- [ ] Zak
+- [X] Badie
+**** DONE Extra Credit
+CLOSED: [2021-03-31 Wed 21:44] SCHEDULED: <2021-03-31 Wed 20:00>
+- Set up experiment in Qualtrics
+- Send Berejikian link as if he was a respondent
+- Create simple introduction screen
+  - "We're going to ask you a question regarding foreign policy and are interested in your perspective. Please read all the provided information carefully and completely."
+  - Be as neutral as possible
+- Figure out how to randomize the experiment
+  - Random control or treatment given to respondent, only get one.
+- Exit screen with thank you message
+- Consider using Qualtrics block feature
+  - Intro block
+  - 2 experiment blocks (Treatment and Control)
+  - Conclusion block
+- Exportable into the following:
+  | Identifier | C/T | Choice |
+  | 0x1343883  | C   | Yes    |
+  | 0329hf392  | T   | No     |
+  | 02389fbu3  | C   | Yes    |
+- Create shareable link
+- Submit via GDoc
+- Choose to anonymize responses on survey termination? (In survey options)
+**** DONE Essay 3
+CLOSED: [2021-03-31 Wed 21:45] DEADLINE: <2021-03-31 Wed 20:00>
+**** DONE Experiment Draft
+CLOSED: [2021-04-01 Thu 11:05] SCHEDULED: <2021-04-01 Thu 17:00>
+** Orgs
+*** MUN [100%]
+**** MIGRATED Instagram Posts
+CLOSED: [2021-04-05 Mon 10:45]
+- [X] UCBMUN
+- [ ] SRMUN
+- [ ] VICS
+- [ ] ChoMUN
+**** DONE ChoMUN
+CLOSED: [2021-04-02 Fri 19:02] SCHEDULED: <2021-04-01 Thu 16:00>
+**** DONE Sec + Gen Meeting
+CLOSED: [2021-03-30 Tue 20:04] SCHEDULED: <2021-03-30 Tue 19:30>
+**** DONE Constitution Upload
+CLOSED: [2021-03-30 Tue 18:52] SCHEDULED: <2021-03-30 Tue 19:00>
+*** Finch [100%]
+**** DONE Style Meeting
+CLOSED: [2021-04-01 Thu 10:54] SCHEDULED: <2021-03-31 Wed 22:00>
+*** UGAHacks [100%]
+**** DONE Interview Scheduling
+CLOSED: [2021-04-02 Fri 19:02]
+**** DONE Directors Meeting
+CLOSED: [2021-03-31 Wed 21:45] SCHEDULED: <2021-03-31 Wed 21:00>
+**** DONE Card Pickup
+CLOSED: [2021-03-31 Wed 21:45] SCHEDULED: <2021-03-31 Wed 12:00>
+*** FRC [100%]
+**** DONE Kindness Rocks
+CLOSED: [2021-04-05 Mon 10:48] SCHEDULED: <2021-04-01 Thu>
+**** DONE Acad Event
+CLOSED: [2021-03-30 Tue 18:52] SCHEDULED: <2021-03-30 Tue 18:00>
+*** SSRL
+**** DONE SSRL Meeting
+CLOSED: [2021-03-31 Wed 21:45] SCHEDULED: <2021-03-31 Wed 17:30>
+** Misc
+*** DONE CURO Presentation
+CLOSED: [2021-04-05 Mon 10:42] DEADLINE: <2021-04-04 Sun>
+*** DONE Iliev Meeting
+CLOSED: [2021-03-31 Wed 21:45] SCHEDULED: <2021-03-31 Wed 15:00>
+** Tutoring
+*** DONE Debate 2
+CLOSED: [2021-04-05 Mon 10:42] SCHEDULED: <2021-04-03 Sat 10:00>
+*** DONE Debate 1
+CLOSED: [2021-04-02 Fri 19:02] SCHEDULED: <2021-04-02 Fri 15:00>
+*** DONE Noah
+CLOSED: [2021-04-02 Fri 19:02]
+*** DONE Mebin
+CLOSED: [2021-03-30 Tue 18:52] SCHEDULED: <2021-03-30 Tue 16:00>
+*** ABANDONED Tom
+CLOSED: [2021-04-02 Fri 19:02]
+* 03.22.21
+** School
+*** CSCI2720 [100%]
+**** MIGRATED Assn04
+CLOSED: [2021-03-29 Mon 18:55]
+**** MIGRATED Quiz3
+CLOSED: [2021-03-29 Mon 18:55]
+- covers Binary Search Trees & recursion
+*** CSCI2670 [100%]
+**** MIGRATED Correct CW2
+CLOSED: [2021-03-29 Mon 18:54]
+**** DONE HW3
+CLOSED: [2021-03-26 Fri 10:07] DEADLINE: <2021-03-25 Thu>
+:PROPERTIES:
+:ID:       38bd5692-fd2a-41e7-9938-96ddf080f1fd
+:END:
+**** DONE CW9
+CLOSED: [2021-03-24 Wed 01:05] DEADLINE: <2021-03-23 Tue>
+*** INTL4440 [100%]
+**** DONE Lecture 03.15
+CLOSED: [2021-03-24 Wed 01:19] DEADLINE: <2021-03-23 Tue>
+**** MIGRATED Readings
+CLOSED: [2021-03-29 Mon 18:54]
+- [ ] Ehrman
+- [ ] Olsen
+- [ ] Wettering
+- [ ] Taylor & Snow
+- [ ] Johnson
+- [ ] Cilluffo & Marks
+*** INTL4260 [100%]
+**** MIGRATED Readings
+CLOSED: [2021-03-29 Mon 18:52]
+- [ ] Gadarian
+- [ ] Gallagher
+- [ ] Eichenberg
+- [ ] Cohn
+- [ ] Zak
+- [ ] Badie
+**** MIGRATED Extra Credit
+- Set up experiment in Qualtrics
+- Send Berejikian link as if he was a respondent
+- Create simple introduction screen
+  - "We're going to ask you a question regarding foreign policy and are interested in your perspective. Please read all the provided information carefully and completely."
+  - Be as neutral as possible
+- Figure out how to randomize the experiment
+  - Random control or treatment given to respondent, only get one.
+- Exit screen with thank you message
+- Consider using Qualtrics block feature
+  - Intro block
+  - 2 experiment blocks (Treatment and Control)
+  - Conclusion block
+- Exportable into the following:
+  | Identifier | C/T | Choice |
+  | 0x1343883  | C   | Yes    |
+  | 0329hf392  | T   | No     |
+  | 02389fbu3  | C   | Yes    |
+- Create shareable link
+- Submit via GDoc
+
+**** MIGRATED Experiment Draft
+CLOSED: [2021-03-29 Mon 18:53]
+*** INTL4710 [100%]
+**** DONE FDI Participation
+CLOSED: [2021-03-23 Tue 11:14] DEADLINE: <2021-03-23 Tue 14:20>
+**** DONE Space Quiz
+CLOSED: [2021-03-23 Tue 00:03] DEADLINE: <2021-03-23 Tue 14:20>
+**** DONE Space Survey
+CLOSED: [2021-03-22 Mon 21:31] DEADLINE: <2021-03-23 Tue 14:20>
+** Orgs
+*** UGAHacks [100%]
+**** DONE Team Dinner
+CLOSED: [2021-03-29 Mon 10:23] SCHEDULED: <2021-03-26 Fri 17:00>
+**** DONE RasPi Request
+CLOSED: [2021-03-23 Tue 12:10]
+**** DONE Directors Meeting
+CLOSED: [2021-03-22 Mon 21:31] SCHEDULED: <2021-03-22 Mon 21:00>
+*** SSRL [100%]
+**** DONE Group Meeting
+CLOSED: [2021-03-24 Wed 23:25] SCHEDULED: <2021-03-24 Wed 17:30>
+**** DONE CET Meeting
+CLOSED: [2021-03-22 Mon 20:30] SCHEDULED: <2021-03-22 Mon 17:00>
+*** MUN [100%]
+**** MIGRATED Instagram Post
+CLOSED: [2021-03-29 Mon 19:58]
+**** DONE Sec + Gen Meeting
+CLOSED: [2021-03-24 Wed 01:05] SCHEDULED: <2021-03-23 Tue 19:30>
+** Tutoring [100%]
+*** DONE Debate 2
+CLOSED: [2021-03-29 Mon 10:23] SCHEDULED: <2021-03-27 Sat 10:00>
+*** DONE Debate 1
+CLOSED: [2021-03-29 Mon 10:23] SCHEDULED: <2021-03-26 Fri 15:00>
+*** ABANDONED Mebin
+CLOSED: [2021-03-29 Mon 10:23]
+*** ABANDONED Tom
+CLOSED: [2021-03-29 Mon 10:23]
+*** ABANDONED Noah
+CLOSED: [2021-03-29 Mon 10:23]
+** Misc
+*** DONE Saglam Follow-Up
+CLOSED: [2021-03-24 Wed 17:45]
+*** DONE SC Follow-up
+CLOSED: [2021-03-24 Wed 01:19]
+*** DONE Linguistics Event
+CLOSED: [2021-03-24 Wed 01:19] SCHEDULED: <2021-03-23 Tue 17:30>
+* 03.15.21
+** School
+*** CSCI2720 [100%]
+**** DONE Assn03
+CLOSED: [2021-03-17 Wed 23:54]
+*** CSCI2670 [100%]
+**** DONE CW8
+CLOSED: [2021-03-16 Tue 22:20] DEADLINE: <2021-03-16 Tue>
+**** MIGRATED Correct CW2
+CLOSED: [2021-03-22 Mon 10:22]
+*** INTL4440 [100%]
+**** DONE Case Study
+CLOSED: [2021-03-17 Wed 14:02] DEADLINE: <2021-03-17 Wed>
+**** MIGRATED Olsen
+CLOSED: [2021-03-22 Mon 10:27]
+**** MIGRATED Ehrman
+CLOSED: [2021-03-22 Mon 10:27]
+**** MIGRATED Wettering
+CLOSED: [2021-03-22 Mon 10:27]
+**** MIGRATED Taylor & Snow
+CLOSED: [2021-03-22 Mon 10:27]
+*** INTL4260 [100%]
+**** DONE [[https://zoom.us/j/95009961471?pwd=SFBwTW0yMS82MDFDU0Npc1FHZW9Qdz09][OH Meeting]]
+CLOSED: [2021-03-16 Tue 16:01] SCHEDULED: <2021-03-16 Tue 16:00>
+**** MIGRATED Eichenberg
+CLOSED: [2021-03-22 Mon 10:40]
+**** MIGRATED Cohn
+CLOSED: [2021-03-22 Mon 10:40]
+**** MIGRATED Zak
+CLOSED: [2021-03-22 Mon 10:40]
+**** MIGRATED Gallagher
+CLOSED: [2021-03-22 Mon 10:40]
+*** INTL4710 [100%]
+** Misc
+*** DONE Iliev Meeting
+CLOSED: [2021-03-17 Wed 23:49] SCHEDULED: <2021-03-17 Wed 15:00>
+*** DONE CURO Confirmation
+CLOSED: [2021-03-17 Wed 23:54] DEADLINE: <2021-03-17 Wed>
+*** DONE MTP Tech Check
+CLOSED: [2021-03-22 Mon 10:24] SCHEDULED: <2021-03-20 Sat 11:00>
+*** ABANDONED Care Package Pickup
+CLOSED: [2021-03-22 Mon 10:27] SCHEDULED: <2021-03-19 Fri 17:15>
+*** MIGRATED SC Follow-up
+CLOSED: [2021-03-22 Mon 22:10]
+*** MIGRATED Saglam Follow-up
+CLOSED: [2021-03-22 Mon 22:10]
+** Tutoring [100%]
+*** DONE Debate 1
+CLOSED: [2021-03-22 Mon 10:24] SCHEDULED: <2021-03-19 Fri 15:00>
+*** DONE Debate 2
+CLOSED: [2021-03-22 Mon 10:24]
+*** DONE Noah
+CLOSED: [2021-03-16 Tue 10:52] SCHEDULED: <2021-03-15 Mon 18:30>
+*** DONE Mebin
+CLOSED: [2021-03-17 Wed 23:54]
+*** ABANDONED Tom
+CLOSED: [2021-03-18 Thu 20:59]
+** Tutoring P [100%]
+*** DONE Sam
+CLOSED: [2021-03-18 Thu 00:39]
+*** DONE Mebin
+CLOSED: [2021-03-15 Mon 10:53]
+*** ABANDONED Ava
+CLOSED: [2021-03-18 Thu 00:39]
+*** ABANDONED Tom
+CLOSED: [2021-03-22 Mon 10:51]
+*** ABANDONED Uday
+CLOSED: [2021-03-22 Mon 10:52]
+*** ABANDONED Noah
+CLOSED: [2021-03-22 Mon 10:51]
+*** ABANDONED Allen
+CLOSED: [2021-03-22 Mon 10:51]
+*** ABANDONED Arjun
+CLOSED: [2021-03-22 Mon 10:51]
+*** ABANDONED Yasha
+CLOSED: [2021-03-18 Thu 00:39]
+** Orgs
+*** MUN [100%]
+**** DONE Instagram Post
+CLOSED: [2021-03-16 Tue 23:42]
+**** DONE Refugee Outreach
+CLOSED: [2021-03-10 Wed 13:05]
+*** Finch [100%]
+*** UGAHacks [100%]
+**** MIGRATED RaspPi Request
+CLOSED: [2021-03-22 Mon 10:47]
+*** FRC [100%]
+**** ABANDONED Trivia
+CLOSED: [2021-03-21 Sun 20:18] SCHEDULED: <2021-03-18 Thu 18:00>
+*** SSRL
+**** DONE Large Meeting 1
+CLOSED: [2021-03-29 Mon 19:59] SCHEDULED: <2021-03-24 Wed 19:00>
+**** DONE SSRL Meeting 1
+CLOSED: [2021-03-17 Wed 17:36] SCHEDULED: <2021-03-17 Wed 17:30>
+* 03.08.21
+** CMU
+*** DONE IDOC
+CLOSED: [2021-03-10 Wed 14:11] DEADLINE: <2021-03-15 Mon>
+*** DONE Report
+CLOSED: [2021-03-09 Tue 22:47] DEADLINE: <2021-03-15 Mon>
+** Midterms
+*** DONE 2720 Midterm
+CLOSED: [2021-03-15 Mon 10:30] SCHEDULED: <2021-03-11 Thu>
+*** DONE 4440 Midterm
+CLOSED: [2021-03-10 Wed 12:19] DEADLINE: <2021-03-10 Wed 12:00>
+** School
+*** CSCI2720 [100%]
+**** MIGRATED Assn 03
+CLOSED: [2021-03-15 Mon 10:34] DEADLINE: <2021-03-17 Wed>
+*** CSCI2670 [100%]
+**** DONE CW7
+CLOSED: [2021-03-09 Tue 22:47] DEADLINE: <2021-03-09 Tue>
+*** INTL4440 [100%]
+*** INTL4710 [100%]
+**** DONE Participation
+DEADLINE: <2021-03-09 Tue 14:20>
+**** DONE Survey
+DEADLINE: <2021-03-09 Tue 14:20>
+**** DONE Quiz Mod4
+DEADLINE: <2021-03-09 Tue 14:20>
+*** INTL4260 [100%]
+** Orgs
+*** MUN [100%]
+**** MIGRATED Instagram Post
+CLOSED: [2021-03-16 Tue 16:02]
+**** DONE Refugee Outreach
+CLOSED: [2021-03-10 Wed 13:05]
+*** Finch [100%]
+*** UGAHacks [100%]
+**** MIGRATED RaspPi Request
+CLOSED: [2021-03-16 Tue 16:02]
+*** FRC [100%]
+** Tutoring
+*** DONE Debate 2
+CLOSED: [2021-03-15 Mon 10:30]
+*** DONE Debate 1
+CLOSED: [2021-03-15 Mon 10:30]
+*** DONE Mebin
+CLOSED: [2021-03-10 Wed 22:39]
+*** ABANDONED Tom
+CLOSED: [2021-03-11 Thu 16:33] SCHEDULED: <2021-03-11 Thu 16:00>
+*** ABANDONED Noah
+CLOSED: [2021-03-11 Thu 16:33]
+** Misc
+*** DONE Iliev Meeting
+CLOSED: [2021-03-10 Wed 22:40] SCHEDULED: <2021-03-10 Wed 15:00>
+*** DONE Southern Company Followup
+CLOSED: [2021-03-10 Wed 12:48] DEADLINE: <2021-03-10 Wed>
+*** ABANDONED DME Onboarding
+CLOSED: [2021-03-15 Mon 10:30] DEADLINE: <2021-03-10 Wed>
+* 03.01.21
+** CMU
+*** DONE ACT
+CLOSED: [2021-03-04 Thu 12:58]
+*** DONE Rec
+CLOSED: [2021-03-01 Mon 11:30]
+*** DONE CSS
+CLOSED: [2021-03-01 Mon 10:51]
+*** DONE FAFSA
+CLOSED: [2021-03-03 Wed 10:33]
+*** MIGRATED IDOC
+CLOSED: [2021-03-08 Mon 10:15]
+*** MIGRATED Report
+CLOSED: [2021-03-08 Mon 10:15]
+** School
+*** CSCI2720 [100%]
+**** DONE Quiz 2
+CLOSED: [2021-03-04 Thu 20:42] SCHEDULED: <2021-03-04 Thu>
+**** DONE Assn 02
+CLOSED: [2021-03-04 Thu 12:57] DEADLINE: <2021-03-03 Wed>
+*** CSCI2670 [100%]
+*** INTL4440 [100%]
+**** DONE Assn 03
+CLOSED: [2021-03-02 Tue 09:19] SCHEDULED: <2021-03-01 Mon>
+*** INTL4710 [100%]
+*** INTL4260 [100%]
+**** DONE Exam Review
+CLOSED: [2021-03-04 Thu 12:57] SCHEDULED: <2021-03-03 Wed 14:00>
+** Midterms
+*** DONE 4260 Midterm
+CLOSED: [2021-03-06 Sat 19:14] SCHEDULED: <2021-03-07 Sun 10:20>
+*** DONE 2670 Midterm
+CLOSED: [2021-03-04 Thu 12:57] SCHEDULED: <2021-03-02 Tue 12:45>
+*** MIGRATED 2720 Midterm
+CLOSED: [2021-03-08 Mon 10:23]
+*** MIGRATED 4440 Midterm
+CLOSED: [2021-03-08 Mon 10:23] SCHEDULED: <2021-03-10 Wed 12:00>
+** Misc
+*** DONE SSRL Onboarding
+CLOSED: [2021-03-05 Fri 20:10] SCHEDULED: <2021-03-05 Fri 18:00>
+*** DONE MTP Bios
+CLOSED: [2021-03-05 Fri 20:10]
+*** DONE MTP Meeting
+CLOSED: [2021-03-03 Wed 10:30] SCHEDULED: <2021-03-02 Tue 19:30>
+*** DONE Saglam Meeting
+CLOSED: [2021-03-02 Tue 09:20] SCHEDULED: <2021-03-01 Mon 17:00>
+*** DONE CURO Abstract
+CLOSED: [2021-03-02 Tue 09:20]
+* 02.21.21
+** CMU
+*** MIGRATED ACT Score
+CLOSED: [2021-03-03 Wed 10:30]
+*** MIGRATED FAFSA
+CLOSED: [2021-03-03 Wed 10:30]
+*** MIGRATED CSS + Tax
+CLOSED: [2021-03-03 Wed 10:30]
+*** MIGRATED College Report
+CLOSED: [2021-03-03 Wed 10:30] SCHEDULED: <2021-02-25 Thu>
+*** MIGRATED Rec 1
+CLOSED: [2021-03-03 Wed 10:30]
+** School
+*** CSCI2720 [100%]
+**** MIGRATED Assn 02
+CLOSED: [2021-03-03 Wed 10:31] DEADLINE: <2021-03-03 Wed>
+**** MIGRATED Quiz 2
+CLOSED: [2021-03-03 Wed 10:31] SCHEDULED: <2021-03-04 Thu>
+**** MIGRATED Midterm
+CLOSED: [2021-03-03 Wed 10:30] SCHEDULED: <2021-03-11 Thu>
+*** CSCI2670 [100%]
+**** DONE CW 5
+CLOSED: [2021-02-23 Tue 22:59] DEADLINE: <2021-02-23 Tue>
+**** DONE HW 2
+CLOSED: [2021-02-26 Fri 01:24] DEADLINE: <2021-02-25 Thu>
+**** MIGRATED Exam 1
+CLOSED: [2021-03-01 Mon 10:40] SCHEDULED: <2021-03-02 Tue>
+*** INTL4440 [100%]
+**** MIGRATED Assn 03
+CLOSED: [2021-03-03 Wed 10:30] SCHEDULED: <2021-03-01 Mon>
+**** DONE Lecture Video
+CLOSED: [2021-02-24 Wed 00:41] DEADLINE: <2021-02-23 Tue>
+*** INTL4710 [100%]
+**** DONE W2 Participation
+CLOSED: [2021-02-23 Tue 09:35] DEADLINE: <2021-02-22 Mon>
+**** DONE W3 Survey
+CLOSED: [2021-02-23 Tue 09:35] DEADLINE: <2021-02-25 Thu>
+**** DONE W3 Quiz
+CLOSED: [2021-02-23 Tue 09:35] DEADLINE: <2021-02-22 Mon>
+*** INTL4260 [100%]
+**** MIGRATED Exam Review
+CLOSED: [2021-03-03 Wed 10:31] SCHEDULED: <2021-03-03 Wed 14:00>
+**** DONE Essay 2
+CLOSED: [2021-02-23 Tue 09:35] DEADLINE: <2021-02-23 Tue 12:00>
+**** MIGRATED Exam 1
+CLOSED: [2021-03-01 Mon 10:38] SCHEDULED: <2021-03-05 Fri 10:20>
+** Orgs
+*** MUN [100%]
+**** DONE MUNE
+CLOSED: [2021-03-01 Mon 10:37] SCHEDULED: <2021-02-26 Fri 11:00>
+**** DONE Sec + Gen Meeting
+CLOSED: [2021-02-23 Tue 20:06] SCHEDULED: <2021-02-23 Tue 19:30>
+*** UGAHacks [100%]
+**** DONE Directors Meeting
+CLOSED: [2021-02-24 Wed 23:16] SCHEDULED: <2021-02-24 Wed 20:00>
+*** FRC [100%]
+** Tutoring
+*** DONE Tom
+CLOSED: [2021-02-25 Thu 18:30] SCHEDULED: <2021-02-25 Thu 18:30>
+*** DONE Mebin
+CLOSED: [2021-02-24 Wed 17:23]
+*** DONE Debate 1
+CLOSED: [2021-02-25 Thu 18:12] SCHEDULED: <2021-02-25 Thu 16:00>
+*** DONE Debate 2
+CLOSED: [2021-03-01 Mon 10:37]
+*** ABANDONED Noah
+CLOSED: [2021-03-01 Mon 10:37]
+** Misc
+*** DONE SSRL Interview
+CLOSED: [2021-02-25 Thu 18:12] SCHEDULED: <2021-02-25 Thu 17:15>
+*** DONE Finch Meeting
+CLOSED: [2021-02-24 Wed 23:16] SCHEDULED: <2021-02-24 Wed 21:00>
+*** DONE Advising
+CLOSED: [2021-02-25 Thu 14:02] SCHEDULED: <2021-02-25 Thu 10:00>
+*** DONE Iliev Meeting
+CLOSED: [2021-02-24 Wed 17:23] SCHEDULED: <2021-02-24 Wed 15:00>
+*** DONE Domain Redirect
+CLOSED: [2021-02-22 Mon 18:56] SCHEDULED: <2021-02-22 Mon 18:40>
+*** DONE Housing Contract
+CLOSED: [2021-02-24 Wed 17:24] DEADLINE: <2021-02-25 Thu>
+*** ABANDONED CogSci Meeting
+CLOSED: [2021-02-24 Wed 17:23] SCHEDULED: <2021-02-24 Wed 17:00>
+*** MIGRATED Saglam Meeting
+CLOSED: [2021-02-24 Wed 18:15]
+* 02.14.21
+** CMU
+*** MIGRATED ACT Score
+CLOSED: [2021-02-22 Mon 10:18]
+*** MIGRATED College Report
+CLOSED: [2021-02-22 Mon 10:18]
+*** MIGRATED Rec 1
+CLOSED: [2021-02-22 Mon 10:18]
+** School
+*** CSCI2720 [100%]
+**** ABANDONED Pointer Review
+CLOSED: [2021-02-18 Thu 19:17]
+*** CSCI2670 [100%]
+**** MIGRATED Exam 1
+CLOSED: [2021-02-18 Thu 19:18]
+**** DONE CW4
+CLOSED: [2021-02-17 Wed 15:19]
+*** INTL4440 [100%]
+**** DONE Lecture 1
+CLOSED: [2021-02-18 Thu 18:48]
+**** DONE Assn02
+CLOSED: [2021-02-17 Wed 15:20]
+*** INTL4710 [100%]
+*** INTL4260 [100%]
+**** DONE IRB Training
+CLOSED: [2021-02-18 Thu 12:05]
+** Orgs
+*** MUN [100%]
+**** DONE Sec + Gen Meeting
+CLOSED: [2021-02-17 Wed 15:21]
+*** UGAHacks [100%]
+**** MIGRATED Packing Day
+CLOSED: [2021-02-19 Fri 17:16]
+**** DONE ACM Meeting
+CLOSED: [2021-02-18 Thu 19:17] SCHEDULED: <2021-02-18 Thu 19:00>
+*** FRC [100%]
+** Tutoring
+*** DONE Debate 2
+CLOSED: [2021-02-20 Sat 23:48] SCHEDULED: <2021-02-20 Sat 10:00>
+*** DONE Debate 1
+CLOSED: [2021-02-19 Fri 17:14] SCHEDULED: <2021-02-19 Fri 15:00>
+*** DONE Mebin
+CLOSED: [2021-02-17 Wed 16:33]
+*** DONE Noah
+CLOSED: [2021-02-17 Wed 15:22]
+*** ABANDONED Tom
+CLOSED: [2021-02-19 Fri 17:15] DEADLINE: <2021-02-19 Fri 12:30>
+** Misc
+*** MIGRATED Advising
+CLOSED: [2021-02-18 Thu 19:18] SCHEDULED: <2021-02-27 Sat 10:00>
+* 02.07.21
+** CMU
+*** DONE Exp Section
+CLOSED: [2021-02-14 Sun 22:23]
+*** DONE Achievements Section
+CLOSED: [2021-02-14 Sun 22:23]
+*** DONE Short Essay Prompts
+CLOSED: [2021-02-17 Wed 15:17]
+*** DONE Course Catalogs
+CLOSED: [2021-02-14 Sun 22:23]
+*** MIGRATED Score Sends
+CLOSED: [2021-02-17 Wed 15:22]
+**** MIGRATED ACT
+CLOSED: [2021-02-17 Wed 15:22]
+**** ABANDONED AP
+CLOSED: [2021-02-08 Mon 10:20]
+**** DONE High School Transcript
+CLOSED: [2021-02-02 Tue 12:49]
+**** DONE College Transcript
+CLOSED: [2021-02-11 Thu 10:25]
+*** MIGRATED College Report
+CLOSED: [2021-02-17 Wed 15:22]
+*** MIGRATED Rec 1
+CLOSED: [2021-02-17 Wed 15:22]
+** School
+*** CSCI2720
+**** DONE HW1
+CLOSED: [2021-02-14 Sun 22:23] DEADLINE: <2021-02-16 Tue>
+*** CSCI2670
+**** MIGRATED Exam 1
+CLOSED: [2021-02-17 Wed 15:23]
+*** INTL4440
+**** DONE Essay 2
+CLOSED: [2021-02-17 Wed 15:17] DEADLINE: <2021-02-15 Mon>
+**** DONE Lecture 1
+CLOSED: [2021-02-11 Thu 10:25] DEADLINE: <2021-02-10 Wed>
+**** DONE Mercado
+CLOSED: [2021-02-10 Wed 10:33]
+**** DONE Richelson
+CLOSED
+*** INTL4260
+**** ABANDONED Essay 3
+CLOSED: [2021-02-17 Wed 15:17]
+**** DONE Berejikian
+CLOSED: [2021-02-10 Wed 10:32]
+
+*** INTL4710
+**** DONE Opening Speech
+CLOSED: [2021-02-11 Thu 10:30] DEADLINE: <2021-02-11 Thu>
+** Orgs
+*** UGAHacks
+**** DONE Exit Interview
+CLOSED: [2021-02-14 Sun 22:23] SCHEDULED: <2021-02-13 Sat 14:00>
+*** UGAMUN
+**** DONE Meeting
+CLOSED: [2021-02-12 Fri 14:09]
+*** WebDev
+**** DONE Final Site
+CLOSED: [2021-02-17 Wed 15:17]
+**** DONE Initial Design
+CLOSED: [2021-02-12 Fri 14:09]
+** Tutoring
+*** DONE Debate 2
+CLOSED: [2021-02-14 Sun 22:23]
+*** ABANDONED Mebin
+CLOSED: [2021-02-14 Sun 22:23]
+*** DONE Debate 1
+CLOSED: [2021-02-14 Sun 22:23]
+*** DONE Noah
+CLOSED: [2021-02-11 Thu 18:10]
+*** ABANDONED Tom
+CLOSED: [2021-02-11 Thu 18:10]
+*** Payment [100%]
+**** DONE Antony
+CLOSED: [2021-02-17 Wed 15:17]
+**** DONE Uday
+CLOSED: [2021-02-17 Wed 15:17]
+**** DONE Tom
+CLOSED: [2021-02-12 Fri 14:08]
+**** DONE Noah
+CLOSED: [2021-02-12 Fri 14:08]
+**** DONE Allen
+CLOSED: [2021-02-11 Thu 17:47]
+**** DONE Sam
+CLOSED: [2021-02-11 Thu 17:47]
+**** DONE Mebin
+CLOSED: [2021-02-02 Tue 11:28]
+**** DONE Arjun
+CLOSED: [2021-02-11 Thu 17:40]
+* 02.01.21
+** CMU
+*** MIGRATED Exp Section
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Achievements Section
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Short Essay Prompts
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Course Catalogs
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Score Sends
+CLOSED: [2021-02-10 Wed 10:25]
+**** MIGRATED ACT
+CLOSED: [2021-02-10 Wed 10:25]
+**** ABANDONED AP
+CLOSED: [2021-02-08 Mon 10:20]
+**** DONE Transcript
+CLOSED: [2021-02-02 Tue 12:49]
+*** MIGRATED College Report
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Rec 1
+CLOSED: [2021-02-10 Wed 10:25]
+** School
+*** CSCI2720 [100%]
+**** DONE Assn01
+**** DONE Quiz01
+CLOSED: [2021-02-04 Thu 23:18] SCHEDULED: <2021-02-04 Thu>
+*** CSCI2670 [100%]
+**** DONE HW1
+CLOSED: [2021-02-08 Mon 10:20] DEADLINE: <2021-02-05 Fri>
+**** DONE CW2
+CLOSED: [2021-02-03 Wed 10:25] DEADLINE: <2021-02-02 Tue>
+**** DONE Exam 1
+CLOSED: [2021-02-10 Wed 10:27]
+*** INTL4440 [100%]
+**** MIGRATED Anton
+CLOSED: [2021-02-10 Wed 10:26]
+**** MIGRATED Duczynski
+CLOSED: [2021-02-10 Wed 10:26]
+**** MIGRATED Sallot
+CLOSED: [2021-02-10 Wed 10:26]
+**** MIGRATED McDowell
+CLOSED: [2021-02-10 Wed 10:26]
+*** INTL4260 [100%]
+**** DONE Jervis
+CLOSED: [2021-02-09 Tue 11:23]
+**** DONE Werner
+CLOSED: [2021-02-09 Tue 11:23]
+**** DONE Camerer
+CLOSED: [2021-02-09 Tue 11:23]
+*** INTL4710 [100%]
+**** DONE Mod1 Work Quiz
+CLOSED: [2021-02-09 Tue 11:27] DEADLINE: <2021-02-09 Tue>
+*** Research
+**** DONE SPIA URC App
+CLOSED: [2021-02-10 Wed 10:26] DEADLINE: <2021-02-18 Thu>
+** Orgs
+*** MUN [100%]
+**** DONE Headshot + Bio Activation
+CLOSED: [2021-02-03 Wed 10:25] DEADLINE: <2021-02-02 Tue>
+*** Finch [100%]
+**** DONE Audio Editing
+CLOSED: [2021-02-04 Thu 23:18] DEADLINE: <2021-02-04 Thu>
+**** DONE AfterDark Intro
+CLOSED: [2021-02-04 Thu 23:18] DEADLINE: <2021-02-04 Thu>
+*** UGAHacks [100%]
+**** DONE Hacker Workshop Meeting
+CLOSED: [2021-02-04 Thu 23:18] SCHEDULED: <2021-02-04 Thu 19:30>
+**** DONE Final Town Hall
+CLOSED: [2021-02-04 Thu 23:18] SCHEDULED: <2021-02-04 Thu 19:00>
+*** FRC [100%]
+** Tutoring
+*** DONE Noah
+CLOSED: [2021-02-08 Mon 10:20]
+*** DONE Debate 1
+CLOSED: [2021-02-08 Mon 10:20]
+*** ABANDONED Debate 2
+CLOSED: [2021-02-08 Mon 10:20]
+*** DONE Mebin
+CLOSED: [2021-02-03 Wed 10:25] SCHEDULED: <2021-02-02 Tue 16:00>
+*** DONE Tom
+CLOSED: [2021-02-02 Tue 11:22]
+*** Payment [100%]
+**** MIGRATED Noah
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Tom
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Uday
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Allen
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Arjun
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Sam
+CLOSED: [2021-02-11 Thu 17:40]
+**** MIGRATED Antony
+CLOSED: [2021-02-11 Thu 17:40]
+**** DONE Mebin
+CLOSED: [2021-02-02 Tue 11:28]
+* 04.25.21
+** School
+*** CSCI2720
+**** DONE WAITING Final Exam
+SCHEDULED: <2021-04-30 Fri>
+*** CSCI2670
+**** DONE HW4
+DEADLINE: <2021-05-03 Mon>
+**** DONE HW00
+DEADLINE: <2021-04-30 Fri>
+*** INTL4710
+**** DONE Email
+**** DONE Mod6 Participation Assn
+CLOSED: [2021-04-28 Wed 10:41]
+*** INTL4260
+**** DONE Research Paper
+DEADLINE: <2021-05-07 Fri 12:00>
+**** DONE WAITING Final Exam
+SCHEDULED: <2021-05-03 Mon 10:20>
+*** INTL4440
+**** DONE Term Paper
+DEADLINE: <2021-05-03 Mon>
+** Orgs
+*** MUN
+**** DONE Instagram Posts
+- [X] AIRMUNC
+- [X] New Sec
+**** DONE Formal
+CLOSED: [2021-04-28 Wed 10:41] SCHEDULED: <2021-04-27 Tue 20:00>
+**** DONE Sec Interview
+CLOSED: [2021-04-27 Tue 12:47] SCHEDULED: <2021-04-25 Sun 18:30>
+*** Finch [100%]
+*** UGAHacks [100%]
+**** DONE Directors Meeting
+SCHEDULED: <2021-04-28 Wed 21:00>
+**** DONE Sponsorship Packet
+**** DONE Sponsorship Meeting
+CLOSED: [2021-04-27 Tue 12:47] SCHEDULED: <2021-04-26 Mon 19:00>
+*** SSRL
+**** DONE C Tutorial
+*** FRC
+**** DONE WAITING DA Interview
+**** DONE Spring Banquet
+CLOSED: [2021-04-27 Tue 12:47] SCHEDULED: <2021-04-25 Sun 18:00>
+** Misc
+*** DONE WAITING PLA Interview
+SCHEDULED: <2021-05-04 Tue 10:00>
+*** DONE CS UTA App
+DEADLINE: <2021-07-31 Sat 09:00>
+* 04.19.21
+** School
+*** CSCI2720 [100%]
+**** ABANDONED AVL Tree Review
+CLOSED: [2021-04-28 Wed 10:44]
+**** ABANDONED Red & Black Tree Review
+CLOSED: [2021-04-28 Wed 10:44]
+*** CSCI2670 [100%]
+**** DONE CW13
+CLOSED: [2021-04-21 Wed 00:32] DEADLINE: <2021-04-20 Tue>
+*** INTL4710 [100%]
+*** INTL4440 [100%]
+**** ABANDONED Readings
+CLOSED: [2021-04-28 Wed 10:44]
+- [ ] Ehrman
+- [ ] Olsen
+- [ ] Wettering
+- [ ] Taylor & Snow
+- [ ] Johnson
+- [ ] Cilluffo & Marks
+- [ ] Johnson
+- [ ] Barry
+- [ ] Church
+- [ ] Colby
+- [ ] Holm
+- [ ] Johnson
+- [ ] Johnson
+*** INTL4260 [100%]
+
+**** ABANDONED Readings
+CLOSED: [2021-04-28 Wed 10:44]
+- [ ] Gadarian
+- [ ] Gallagher
+- [ ] Eichenberg
+- [ ] Cohn
+- [ ] Zak
+- [ ] Burneau & Sax
+** Orgs
+*** MUN [100%]
+**** MIGRATED AIRMUNC Post
+CLOSED: [2021-04-28 Wed 10:44]
+**** MIGRATED Sec Post
+CLOSED: [2021-04-28 Wed 10:44]
+**** DONE Election Meeting
+CLOSED: [2021-04-21 Wed 00:32] SCHEDULED: <2021-04-20 Tue 20:00>
+**** DONE Sec App
+CLOSED: [2021-04-25 Sun 13:46] DEADLINE: <2021-04-24 Sat>
+*** Finch [100%]
+*** UGAHacks [100%]
+**** DONE Directors Meeting
+CLOSED: [2021-04-25 Sun 13:46] SCHEDULED: <2021-04-21 Wed 21:00>
+**** DONE Sponsorship Meeting
+SCHEDULED: <2021-04-19 Mon 19:00>
+*** FRC [100%]
+**** DONE DA Application
+CLOSED: [2021-04-25 Sun 13:46] DEADLINE: <2021-04-23 Fri>
+*** SSRL [100%]
+**** DONE MOPS Meeting
+CLOSED: [2021-04-21 Wed 19:21] SCHEDULED: <2021-04-23 Fri 17:30>
+**** DONE MEMESat Meeting
+CLOSED: [2021-04-21 Wed 19:21] SCHEDULED: <2021-04-21 Wed 19:00>
+**** ABANDONED CET Dependency Issue
+CLOSED: [2021-04-21 Wed 19:21] DEADLINE: <2021-04-21 Wed>
+** Misc [100%]
+*** DONE Iliev Meeting
+CLOSED: [2021-04-21 Wed 19:20] SCHEDULED: <2021-04-21 Wed 15:00>
+*** DONE Show
+CLOSED: [2021-04-25 Sun 13:46] SCHEDULED: <2021-04-22 Thu 15:30>
+*** DONE SPIA URC
+CLOSED: [2021-04-25 Sun 13:46] SCHEDULED: <2021-04-23 Fri 09:00>
+*** ABANDONED Saglam Meeting
+CLOSED: [2021-04-25 Sun 17:17] SCHEDULED: <2021-04-22 Thu 10:00>
+** Tutoring
+* 04.12.21
+** School
+*** CSCI2720
+**** DONE Assn05
+CLOSED: [2021-04-20 Tue 11:37] DEADLINE: <2021-04-18 Sun>
+**** DONE Quiz 04
+CLOSED: [2021-04-15 Thu 21:39] SCHEDULED: <2021-04-15 Thu>
+*** CSCI2670
+**** DONE CW12
+CLOSED: [2021-04-16 Fri 10:47]
+**** DONE Exam 2
+CLOSED: [2021-04-13 Tue 16:26] SCHEDULED: <2021-04-13 Tue 12:45>
+*** INTL4710
+**** DONE Quiz
+CLOSED: [2021-04-13 Tue 10:38] SCHEDULED: <2021-04-13 Tue>
+**** DONE Survey
+CLOSED: [2021-04-12 Mon 16:05] DEADLINE: <2021-04-13 Tue>
+**** DONE Participation
+CLOSED: [2021-04-13 Tue 10:38] DEADLINE: <2021-04-13 Tue>
+**** DONE Slide Arrangement
+CLOSED: [2021-04-13 Tue 02:37] DEADLINE: <2021-04-12 Mon>
+*** INTL4440
+**** MIGRATED Readings
+CLOSED: [2021-04-20 Tue 11:53]
+- [ ] Ehrman
+- [ ] Olsen
+- [ ] Wettering
+- [ ] Taylor & Snow
+- [ ] Johnson
+- [ ] Cilluffo & Marks
+- [ ] Johnson
+- [ ] Barry
+- [ ] Church
+- [ ] Colby
+- [ ] Holm
+- [ ] Johnson
+- [ ] Johnson
+*** INTL4260
+**** MIGRATED Readings
+CLOSED: [2021-04-21 Wed 22:13]
+- [ ] Gadarian
+- [ ] Gallagher
+- [ ] Eichenberg
+- [ ] Cohn
+- [ ] Zak
+- [ ] Burneau & Sax
+*
+**** DONE Group Presentation
+CLOSED: [2021-04-20 Tue 11:38] DEADLINE: <2021-04-19 Mon>
+** Orgs
+*** MUN
+**** DONE Insta Posts
+CLOSED: [2021-04-20 Tue 11:37] DEADLINE: <2021-04-13 Tue>
+- [X] ChoMUN
+- [X] VICS
+- [X] SRMUN
+*** Finch
+**** DONE Style Guide Formatting
+CLOSED: [2021-04-16 Fri 10:47] DEADLINE: <2021-04-16 Fri>
+*** UGAHacks
+**** DONE Fr Interview
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 16:30>
+**** DONE Saba Interview
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 12:00>
+**** DONE Meet Interview
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 11:30>
+**** DONE Director Meeting
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 21:00>
+**** DONE UGAHacks Acceptances
+CLOSED: [2021-04-15 Thu 16:21] DEADLINE: <2021-04-14 Wed>
+**** DONE Kewal Interview
+CLOSED: [2021-04-12 Mon 23:33] SCHEDULED: <2021-04-12 Mon 18:00>
+*** FRC
+**** DONE Compost Learning
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 17:30>
+**** ABANDONED Cookie Night
+CLOSED: [2021-04-20 Tue 11:37] SCHEDULED: <2021-04-18 Sun 18:00>
+** Misc
+*** DONE BC SC
+CLOSED: [2021-04-15 Thu 16:21]
+*** DONE Dress Rehearsal
+CLOSED: [2021-04-20 Tue 11:37] SCHEDULED: <2021-04-18 Sun 16:00>
+*** DONE Model Workshop
+CLOSED: [2021-04-11 Sun 16:43] SCHEDULED: <2021-04-11 Sun>
+*
+*** DONE SPIA URC Paper
+CLOSED: [2021-04-12 Mon 23:33] DEADLINE: <2021-04-12 Mon>
+* 04.05.21
+** School
+*** CSCI2720 [100%]
+**** MIGRATED Assn05
+CLOSED: [2021-04-12 Mon 09:55]
+**** MIGRATED Quiz 04
+CLOSED: [2021-04-12 Mon 09:55] SCHEDULED: <2021-04-15 Thu>
+*** CSCI2670 [100%]
+**** DONE CW11
+DEADLINE: <2021-04-06 Tue>
+*** INTL4260 [100%]
+**** MIGRATED Readings
+CLOSED: [2021-04-12 Mon 09:59]
+- [ ] Gadarian
+- [ ] Gallagher
+- [ ] Eichenberg
+- [ ] Cohn
+- [ ] Zak
+- [ ] Burneau & Sax
+*** INTL4440
+**** DONE eLC Lecture
+CLOSED: [2021-04-07 Wed 20:29] DEADLINE: <2021-04-07 Wed 13:50>
+**** MIGRATED Readings
+CLOSED: [2021-04-12 Mon 09:57]
+- [ ] Ehrman
+- [ ] Olsen
+- [ ] Wettering
+- [ ] Taylor & Snow
+- [ ] Johnson
+- [ ] Cilluffo & Marks
+- [ ] Johnson
+- [ ] Barry
+- [ ] Church
+- [ ] Colby
+- [ ] Holm
+- [ ] Johnson
+- [ ] Johnson
+** Orgs
+*** MUN [100%]
+**** DONE Individual Pictures
+CLOSED: [2021-04-12 Mon 09:48]
+- [X] Me
+- [X] Miranda
+- [X] Namrata
+- [X] Ian
+- [X] Sarah
+- [X] Sophia
+- [X] Albert
+- [X] Sydney
+- [X] Meredith
+**** MIGRATED Instagram Posts
+CLOSED: [2021-04-12 Mon 09:37]
+- [ ] SRMUN
+- [ ] VICS
+- [ ] ChoMUN
+*** Finch [100%]
+**** DONE Style Guide Meeting
+CLOSED: [2021-04-08 Thu 00:59] SCHEDULED: <2021-04-07 Wed 22:30>
+**** MIGRATED Style Guide Formatting
+CLOSED: [2021-04-12 Mon 09:45]
+*** UGAHacks [100%]
+**** DONE Directors Meeting
+CLOSED: [2021-04-07 Wed 21:43] SCHEDULED: <2021-04-07 Wed 21:00>
+**** DONE Rich Interview
+CLOSED: [2021-04-07 Wed 20:30] SCHEDULED: <2021-04-07 Wed 18:00>
+**** DONE Elodie Interview
+CLOSED: [2021-04-07 Wed 20:30] SCHEDULED: <2021-04-07 Wed 16:30>
+**** DONE Diversity Fund Response
+CLOSED: [2021-04-07 Wed 01:28] DEADLINE: <2021-04-06 Tue>
+*** FRC [60%]
+**** DONE Open House
+CLOSED: [2021-04-07 Wed 20:29] SCHEDULED: <2021-04-07 Wed 19:00>
+**** DONE Mindfulness Hour
+CLOSED: [2021-04-07 Wed 20:29] SCHEDULED: <2021-04-07 Wed 19:00>
+**** DONE Siddhi App Review
+CLOSED: [2021-04-07 Wed 01:28] DEADLINE: <2021-04-06 Tue>
+*** SSRL [100%]
+**** DONE MOPS Meeting
+CLOSED: [2021-04-07 Wed 20:29] SCHEDULED: <2021-04-07 Wed 17:30>
+**** DONE HAM Radio Exam
+SCHEDULED: <2021-04-06 Tue 18:00>
+** Misc
+*** DONE Class Registration
+CLOSED: [2021-04-11 Sun 16:43] SCHEDULED: <2021-04-08 Thu 08:45>
+*** DONE Iliev Meeting
+CLOSED: [2021-04-07 Wed 20:29] SCHEDULED: <2021-04-07 Wed 15:00>
+*** DONE Class Consideration
+CLOSED: [2021-04-08 Thu 00:59]
+*** MIGRATED URC Paper
+CLOSED: [2021-04-12 Mon 09:44]
+** Tutoring
+*** DONE Noah
+CLOSED: [2021-04-07 Wed 12:35] SCHEDULED: <2021-04-07 Wed 12:00>
+*** DONE Mebin
+CLOSED: [2021-04-11 Sun 16:43]
+*** DONE Debate 1
+CLOSED: [2021-04-11 Sun 16:43]
+*** DONE Debate 2
+CLOSED: [2021-04-11 Sun 16:43]
+* 03.29.21
+** School
+*** CSCI2720 [100%]
+**** DONE Assn04
+CLOSED: [2021-04-05 Mon 10:32] DEADLINE: <2021-04-04 Sun>
+**** DONE Quiz3
+CLOSED: [2021-04-02 Fri 19:01] SCHEDULED: <2021-04-01 Thu>
+- covers Binary Search Trees & recursion
+*** CSCI2670 [100%]
+**** DONE CW10
+CLOSED: [2021-03-30 Tue 01:08] DEADLINE: <2021-04-02 Fri>
+**** ABANDONED Correct CW2
+CLOSED: [2021-03-30 Tue 01:14]
+*** INTL4440 [100%]
+**** MIGRATED Readings
+CLOSED: [2021-04-12 Mon 09:57]
+- [ ] Ehrman
+- [ ] Olsen
+- [ ] Wettering
+- [ ] Taylor & Snow
+- [ ] Johnson
+- [ ] Cilluffo & Marks
+- [ ] Johnson
+- [ ] Barry
+- [ ] Church
+- [ ] Colby
+- [ ] Holm
+**** DONE Online Lecture
+CLOSED: [2021-03-30 Tue 23:45] DEADLINE: <2021-03-31 Wed>
+*** INTL4710 [100%]
+**** DONE Chair Email
+CLOSED: [2021-03-29 Mon 19:15]
+*** INTL4260 [100%]
+**** MIGRATED Readings
+CLOSED: [2021-04-06 Tue 23:11] DEADLINE: <2021-04-02 Fri>
+- [ ] Gadarian
+- [ ] Gallagher
+- [ ] Eichenberg
+- [ ] Cohn
+- [ ] Zak
+- [X] Badie
+**** DONE Extra Credit
+CLOSED: [2021-03-31 Wed 21:44] SCHEDULED: <2021-03-31 Wed 20:00>
+- Set up experiment in Qualtrics
+- Send Berejikian link as if he was a respondent
+- Create simple introduction screen
+  - "We're going to ask you a question regarding foreign policy and are interested in your perspective. Please read all the provided information carefully and completely."
+  - Be as neutral as possible
+- Figure out how to randomize the experiment
+  - Random control or treatment given to respondent, only get one.
+- Exit screen with thank you message
+- Consider using Qualtrics block feature
+  - Intro block
+  - 2 experiment blocks (Treatment and Control)
+  - Conclusion block
+- Exportable into the following:
+  | Identifier | C/T | Choice |
+  | 0x1343883  | C   | Yes    |
+  | 0329hf392  | T   | No     |
+  | 02389fbu3  | C   | Yes    |
+- Create shareable link
+- Submit via GDoc
+- Choose to anonymize responses on survey termination? (In survey options)
+**** DONE Essay 3
+CLOSED: [2021-03-31 Wed 21:45] DEADLINE: <2021-03-31 Wed 20:00>
+**** DONE Experiment Draft
+CLOSED: [2021-04-01 Thu 11:05] SCHEDULED: <2021-04-01 Thu 17:00>
+** Orgs
+*** MUN [100%]
+**** MIGRATED Instagram Posts
+CLOSED: [2021-04-05 Mon 10:45]
+- [X] UCBMUN
+- [ ] SRMUN
+- [ ] VICS
+- [ ] ChoMUN
+**** DONE ChoMUN
+CLOSED: [2021-04-02 Fri 19:02] SCHEDULED: <2021-04-01 Thu 16:00>
+**** DONE Sec + Gen Meeting
+CLOSED: [2021-03-30 Tue 20:04] SCHEDULED: <2021-03-30 Tue 19:30>
+**** DONE Constitution Upload
+CLOSED: [2021-03-30 Tue 18:52] SCHEDULED: <2021-03-30 Tue 19:00>
+*** Finch [100%]
+**** DONE Style Meeting
+CLOSED: [2021-04-01 Thu 10:54] SCHEDULED: <2021-03-31 Wed 22:00>
+*** UGAHacks [100%]
+**** DONE Interview Scheduling
+CLOSED: [2021-04-02 Fri 19:02]
+**** DONE Directors Meeting
+CLOSED: [2021-03-31 Wed 21:45] SCHEDULED: <2021-03-31 Wed 21:00>
+**** DONE Card Pickup
+CLOSED: [2021-03-31 Wed 21:45] SCHEDULED: <2021-03-31 Wed 12:00>
+*** FRC [100%]
+**** DONE Kindness Rocks
+CLOSED: [2021-04-05 Mon 10:48] SCHEDULED: <2021-04-01 Thu>
+**** DONE Acad Event
+CLOSED: [2021-03-30 Tue 18:52] SCHEDULED: <2021-03-30 Tue 18:00>
+*** SSRL
+**** DONE SSRL Meeting
+CLOSED: [2021-03-31 Wed 21:45] SCHEDULED: <2021-03-31 Wed 17:30>
+** Misc
+*** DONE CURO Presentation
+CLOSED: [2021-04-05 Mon 10:42] DEADLINE: <2021-04-04 Sun>
+*** DONE Iliev Meeting
+CLOSED: [2021-03-31 Wed 21:45] SCHEDULED: <2021-03-31 Wed 15:00>
+** Tutoring
+*** DONE Debate 2
+CLOSED: [2021-04-05 Mon 10:42] SCHEDULED: <2021-04-03 Sat 10:00>
+*** DONE Debate 1
+CLOSED: [2021-04-02 Fri 19:02] SCHEDULED: <2021-04-02 Fri 15:00>
+*** DONE Noah
+CLOSED: [2021-04-02 Fri 19:02]
+*** DONE Mebin
+CLOSED: [2021-03-30 Tue 18:52] SCHEDULED: <2021-03-30 Tue 16:00>
+*** ABANDONED Tom
+CLOSED: [2021-04-02 Fri 19:02]
+* 03.22.21
+** School
+*** CSCI2720 [100%]
+**** MIGRATED Assn04
+CLOSED: [2021-03-29 Mon 18:55]
+**** MIGRATED Quiz3
+CLOSED: [2021-03-29 Mon 18:55]
+- covers Binary Search Trees & recursion
+*** CSCI2670 [100%]
+**** MIGRATED Correct CW2
+CLOSED: [2021-03-29 Mon 18:54]
+**** DONE HW3
+CLOSED: [2021-03-26 Fri 10:07] DEADLINE: <2021-03-25 Thu>
+:PROPERTIES:
+:ID:       38bd5692-fd2a-41e7-9938-96ddf080f1fd
+:END:
+**** DONE CW9
+CLOSED: [2021-03-24 Wed 01:05] DEADLINE: <2021-03-23 Tue>
+*** INTL4440 [100%]
+**** DONE Lecture 03.15
+CLOSED: [2021-03-24 Wed 01:19] DEADLINE: <2021-03-23 Tue>
+**** MIGRATED Readings
+CLOSED: [2021-03-29 Mon 18:54]
+- [ ] Ehrman
+- [ ] Olsen
+- [ ] Wettering
+- [ ] Taylor & Snow
+- [ ] Johnson
+- [ ] Cilluffo & Marks
+*** INTL4260 [100%]
+**** MIGRATED Readings
+CLOSED: [2021-03-29 Mon 18:52]
+- [ ] Gadarian
+- [ ] Gallagher
+- [ ] Eichenberg
+- [ ] Cohn
+- [ ] Zak
+- [ ] Badie
+**** MIGRATED Extra Credit
+- Set up experiment in Qualtrics
+- Send Berejikian link as if he was a respondent
+- Create simple introduction screen
+  - "We're going to ask you a question regarding foreign policy and are interested in your perspective. Please read all the provided information carefully and completely."
+  - Be as neutral as possible
+- Figure out how to randomize the experiment
+  - Random control or treatment given to respondent, only get one.
+- Exit screen with thank you message
+- Consider using Qualtrics block feature
+  - Intro block
+  - 2 experiment blocks (Treatment and Control)
+  - Conclusion block
+- Exportable into the following:
+  | Identifier | C/T | Choice |
+  | 0x1343883  | C   | Yes    |
+  | 0329hf392  | T   | No     |
+  | 02389fbu3  | C   | Yes    |
+- Create shareable link
+- Submit via GDoc
+
+**** MIGRATED Experiment Draft
+CLOSED: [2021-03-29 Mon 18:53]
+*** INTL4710 [100%]
+**** DONE FDI Participation
+CLOSED: [2021-03-23 Tue 11:14] DEADLINE: <2021-03-23 Tue 14:20>
+**** DONE Space Quiz
+CLOSED: [2021-03-23 Tue 00:03] DEADLINE: <2021-03-23 Tue 14:20>
+**** DONE Space Survey
+CLOSED: [2021-03-22 Mon 21:31] DEADLINE: <2021-03-23 Tue 14:20>
+** Orgs
+*** UGAHacks [100%]
+**** DONE Team Dinner
+CLOSED: [2021-03-29 Mon 10:23] SCHEDULED: <2021-03-26 Fri 17:00>
+**** DONE RasPi Request
+CLOSED: [2021-03-23 Tue 12:10]
+**** DONE Directors Meeting
+CLOSED: [2021-03-22 Mon 21:31] SCHEDULED: <2021-03-22 Mon 21:00>
+*** SSRL [100%]
+**** DONE Group Meeting
+CLOSED: [2021-03-24 Wed 23:25] SCHEDULED: <2021-03-24 Wed 17:30>
+**** DONE CET Meeting
+CLOSED: [2021-03-22 Mon 20:30] SCHEDULED: <2021-03-22 Mon 17:00>
+*** MUN [100%]
+**** MIGRATED Instagram Post
+CLOSED: [2021-03-29 Mon 19:58]
+**** DONE Sec + Gen Meeting
+CLOSED: [2021-03-24 Wed 01:05] SCHEDULED: <2021-03-23 Tue 19:30>
+** Tutoring [100%]
+*** DONE Debate 2
+CLOSED: [2021-03-29 Mon 10:23] SCHEDULED: <2021-03-27 Sat 10:00>
+*** DONE Debate 1
+CLOSED: [2021-03-29 Mon 10:23] SCHEDULED: <2021-03-26 Fri 15:00>
+*** ABANDONED Mebin
+CLOSED: [2021-03-29 Mon 10:23]
+*** ABANDONED Tom
+CLOSED: [2021-03-29 Mon 10:23]
+*** ABANDONED Noah
+CLOSED: [2021-03-29 Mon 10:23]
+** Misc
+*** DONE Saglam Follow-Up
+CLOSED: [2021-03-24 Wed 17:45]
+*** DONE SC Follow-up
+CLOSED: [2021-03-24 Wed 01:19]
+*** DONE Linguistics Event
+CLOSED: [2021-03-24 Wed 01:19] SCHEDULED: <2021-03-23 Tue 17:30>
+* 03.15.21
+** School
+*** CSCI2720 [100%]
+**** DONE Assn03
+CLOSED: [2021-03-17 Wed 23:54]
+*** CSCI2670 [100%]
+**** DONE CW8
+CLOSED: [2021-03-16 Tue 22:20] DEADLINE: <2021-03-16 Tue>
+**** MIGRATED Correct CW2
+CLOSED: [2021-03-22 Mon 10:22]
+*** INTL4440 [100%]
+**** DONE Case Study
+CLOSED: [2021-03-17 Wed 14:02] DEADLINE: <2021-03-17 Wed>
+**** MIGRATED Olsen
+CLOSED: [2021-03-22 Mon 10:27]
+**** MIGRATED Ehrman
+CLOSED: [2021-03-22 Mon 10:27]
+**** MIGRATED Wettering
+CLOSED: [2021-03-22 Mon 10:27]
+**** MIGRATED Taylor & Snow
+CLOSED: [2021-03-22 Mon 10:27]
+*** INTL4260 [100%]
+**** DONE [[https://zoom.us/j/95009961471?pwd=SFBwTW0yMS82MDFDU0Npc1FHZW9Qdz09][OH Meeting]]
+CLOSED: [2021-03-16 Tue 16:01] SCHEDULED: <2021-03-16 Tue 16:00>
+**** MIGRATED Eichenberg
+CLOSED: [2021-03-22 Mon 10:40]
+**** MIGRATED Cohn
+CLOSED: [2021-03-22 Mon 10:40]
+**** MIGRATED Zak
+CLOSED: [2021-03-22 Mon 10:40]
+**** MIGRATED Gallagher
+CLOSED: [2021-03-22 Mon 10:40]
+*** INTL4710 [100%]
+** Misc
+*** DONE Iliev Meeting
+CLOSED: [2021-03-17 Wed 23:49] SCHEDULED: <2021-03-17 Wed 15:00>
+*** DONE CURO Confirmation
+CLOSED: [2021-03-17 Wed 23:54] DEADLINE: <2021-03-17 Wed>
+*** DONE MTP Tech Check
+CLOSED: [2021-03-22 Mon 10:24] SCHEDULED: <2021-03-20 Sat 11:00>
+*** ABANDONED Care Package Pickup
+CLOSED: [2021-03-22 Mon 10:27] SCHEDULED: <2021-03-19 Fri 17:15>
+*** MIGRATED SC Follow-up
+CLOSED: [2021-03-22 Mon 22:10]
+*** MIGRATED Saglam Follow-up
+CLOSED: [2021-03-22 Mon 22:10]
+** Tutoring [100%]
+*** DONE Debate 1
+CLOSED: [2021-03-22 Mon 10:24] SCHEDULED: <2021-03-19 Fri 15:00>
+*** DONE Debate 2
+CLOSED: [2021-03-22 Mon 10:24]
+*** DONE Noah
+CLOSED: [2021-03-16 Tue 10:52] SCHEDULED: <2021-03-15 Mon 18:30>
+*** DONE Mebin
+CLOSED: [2021-03-17 Wed 23:54]
+*** ABANDONED Tom
+CLOSED: [2021-03-18 Thu 20:59]
+** Tutoring P [100%]
+*** DONE Sam
+CLOSED: [2021-03-18 Thu 00:39]
+*** DONE Mebin
+CLOSED: [2021-03-15 Mon 10:53]
+*** ABANDONED Ava
+CLOSED: [2021-03-18 Thu 00:39]
+*** ABANDONED Tom
+CLOSED: [2021-03-22 Mon 10:51]
+*** ABANDONED Uday
+CLOSED: [2021-03-22 Mon 10:52]
+*** ABANDONED Noah
+CLOSED: [2021-03-22 Mon 10:51]
+*** ABANDONED Allen
+CLOSED: [2021-03-22 Mon 10:51]
+*** ABANDONED Arjun
+CLOSED: [2021-03-22 Mon 10:51]
+*** ABANDONED Yasha
+CLOSED: [2021-03-18 Thu 00:39]
+** Orgs
+*** MUN [100%]
+**** DONE Instagram Post
+CLOSED: [2021-03-16 Tue 23:42]
+**** DONE Refugee Outreach
+CLOSED: [2021-03-10 Wed 13:05]
+*** Finch [100%]
+*** UGAHacks [100%]
+**** MIGRATED RaspPi Request
+CLOSED: [2021-03-22 Mon 10:47]
+*** FRC [100%]
+**** ABANDONED Trivia
+CLOSED: [2021-03-21 Sun 20:18] SCHEDULED: <2021-03-18 Thu 18:00>
+*** SSRL
+**** DONE Large Meeting 1
+CLOSED: [2021-03-29 Mon 19:59] SCHEDULED: <2021-03-24 Wed 19:00>
+**** DONE SSRL Meeting 1
+CLOSED: [2021-03-17 Wed 17:36] SCHEDULED: <2021-03-17 Wed 17:30>
+* 03.08.21
+** CMU
+*** DONE IDOC
+CLOSED: [2021-03-10 Wed 14:11] DEADLINE: <2021-03-15 Mon>
+*** DONE Report
+CLOSED: [2021-03-09 Tue 22:47] DEADLINE: <2021-03-15 Mon>
+** Midterms
+*** DONE 2720 Midterm
+CLOSED: [2021-03-15 Mon 10:30] SCHEDULED: <2021-03-11 Thu>
+*** DONE 4440 Midterm
+CLOSED: [2021-03-10 Wed 12:19] DEADLINE: <2021-03-10 Wed 12:00>
+** School
+*** CSCI2720 [100%]
+**** MIGRATED Assn 03
+CLOSED: [2021-03-15 Mon 10:34] DEADLINE: <2021-03-17 Wed>
+*** CSCI2670 [100%]
+**** DONE CW7
+CLOSED: [2021-03-09 Tue 22:47] DEADLINE: <2021-03-09 Tue>
+*** INTL4440 [100%]
+*** INTL4710 [100%]
+**** DONE Participation
+DEADLINE: <2021-03-09 Tue 14:20>
+**** DONE Survey
+DEADLINE: <2021-03-09 Tue 14:20>
+**** DONE Quiz Mod4
+DEADLINE: <2021-03-09 Tue 14:20>
+*** INTL4260 [100%]
+** Orgs
+*** MUN [100%]
+**** MIGRATED Instagram Post
+CLOSED: [2021-03-16 Tue 16:02]
+**** DONE Refugee Outreach
+CLOSED: [2021-03-10 Wed 13:05]
+*** Finch [100%]
+*** UGAHacks [100%]
+**** MIGRATED RaspPi Request
+CLOSED: [2021-03-16 Tue 16:02]
+*** FRC [100%]
+** Tutoring
+*** DONE Debate 2
+CLOSED: [2021-03-15 Mon 10:30]
+*** DONE Debate 1
+CLOSED: [2021-03-15 Mon 10:30]
+*** DONE Mebin
+CLOSED: [2021-03-10 Wed 22:39]
+*** ABANDONED Tom
+CLOSED: [2021-03-11 Thu 16:33] SCHEDULED: <2021-03-11 Thu 16:00>
+*** ABANDONED Noah
+CLOSED: [2021-03-11 Thu 16:33]
+** Misc
+*** DONE Iliev Meeting
+CLOSED: [2021-03-10 Wed 22:40] SCHEDULED: <2021-03-10 Wed 15:00>
+*** DONE Southern Company Followup
+CLOSED: [2021-03-10 Wed 12:48] DEADLINE: <2021-03-10 Wed>
+*** ABANDONED DME Onboarding
+CLOSED: [2021-03-15 Mon 10:30] DEADLINE: <2021-03-10 Wed>
+* 03.01.21
+** CMU
+*** DONE ACT
+CLOSED: [2021-03-04 Thu 12:58]
+*** DONE Rec
+CLOSED: [2021-03-01 Mon 11:30]
+*** DONE CSS
+CLOSED: [2021-03-01 Mon 10:51]
+*** DONE FAFSA
+CLOSED: [2021-03-03 Wed 10:33]
+*** MIGRATED IDOC
+CLOSED: [2021-03-08 Mon 10:15]
+*** MIGRATED Report
+CLOSED: [2021-03-08 Mon 10:15]
+** School
+*** CSCI2720 [100%]
+**** DONE Quiz 2
+CLOSED: [2021-03-04 Thu 20:42] SCHEDULED: <2021-03-04 Thu>
+**** DONE Assn 02
+CLOSED: [2021-03-04 Thu 12:57] DEADLINE: <2021-03-03 Wed>
+*** CSCI2670 [100%]
+*** INTL4440 [100%]
+**** DONE Assn 03
+CLOSED: [2021-03-02 Tue 09:19] SCHEDULED: <2021-03-01 Mon>
+*** INTL4710 [100%]
+*** INTL4260 [100%]
+**** DONE Exam Review
+CLOSED: [2021-03-04 Thu 12:57] SCHEDULED: <2021-03-03 Wed 14:00>
+** Midterms
+*** DONE 4260 Midterm
+CLOSED: [2021-03-06 Sat 19:14] SCHEDULED: <2021-03-07 Sun 10:20>
+*** DONE 2670 Midterm
+CLOSED: [2021-03-04 Thu 12:57] SCHEDULED: <2021-03-02 Tue 12:45>
+*** MIGRATED 2720 Midterm
+CLOSED: [2021-03-08 Mon 10:23]
+*** MIGRATED 4440 Midterm
+CLOSED: [2021-03-08 Mon 10:23] SCHEDULED: <2021-03-10 Wed 12:00>
+** Misc
+*** DONE SSRL Onboarding
+CLOSED: [2021-03-05 Fri 20:10] SCHEDULED: <2021-03-05 Fri 18:00>
+*** DONE MTP Bios
+CLOSED: [2021-03-05 Fri 20:10]
+*** DONE MTP Meeting
+CLOSED: [2021-03-03 Wed 10:30] SCHEDULED: <2021-03-02 Tue 19:30>
+*** DONE Saglam Meeting
+CLOSED: [2021-03-02 Tue 09:20] SCHEDULED: <2021-03-01 Mon 17:00>
+*** DONE CURO Abstract
+CLOSED: [2021-03-02 Tue 09:20]
+* 02.21.21
+** CMU
+*** MIGRATED ACT Score
+CLOSED: [2021-03-03 Wed 10:30]
+*** MIGRATED FAFSA
+CLOSED: [2021-03-03 Wed 10:30]
+*** MIGRATED CSS + Tax
+CLOSED: [2021-03-03 Wed 10:30]
+*** MIGRATED College Report
+CLOSED: [2021-03-03 Wed 10:30] SCHEDULED: <2021-02-25 Thu>
+*** MIGRATED Rec 1
+CLOSED: [2021-03-03 Wed 10:30]
+** School
+*** CSCI2720 [100%]
+**** MIGRATED Assn 02
+CLOSED: [2021-03-03 Wed 10:31] DEADLINE: <2021-03-03 Wed>
+**** MIGRATED Quiz 2
+CLOSED: [2021-03-03 Wed 10:31] SCHEDULED: <2021-03-04 Thu>
+**** MIGRATED Midterm
+CLOSED: [2021-03-03 Wed 10:30] SCHEDULED: <2021-03-11 Thu>
+*** CSCI2670 [100%]
+**** DONE CW 5
+CLOSED: [2021-02-23 Tue 22:59] DEADLINE: <2021-02-23 Tue>
+**** DONE HW 2
+CLOSED: [2021-02-26 Fri 01:24] DEADLINE: <2021-02-25 Thu>
+**** MIGRATED Exam 1
+CLOSED: [2021-03-01 Mon 10:40] SCHEDULED: <2021-03-02 Tue>
+*** INTL4440 [100%]
+**** MIGRATED Assn 03
+CLOSED: [2021-03-03 Wed 10:30] SCHEDULED: <2021-03-01 Mon>
+**** DONE Lecture Video
+CLOSED: [2021-02-24 Wed 00:41] DEADLINE: <2021-02-23 Tue>
+*** INTL4710 [100%]
+**** DONE W2 Participation
+CLOSED: [2021-02-23 Tue 09:35] DEADLINE: <2021-02-22 Mon>
+**** DONE W3 Survey
+CLOSED: [2021-02-23 Tue 09:35] DEADLINE: <2021-02-25 Thu>
+**** DONE W3 Quiz
+CLOSED: [2021-02-23 Tue 09:35] DEADLINE: <2021-02-22 Mon>
+*** INTL4260 [100%]
+**** MIGRATED Exam Review
+CLOSED: [2021-03-03 Wed 10:31] SCHEDULED: <2021-03-03 Wed 14:00>
+**** DONE Essay 2
+CLOSED: [2021-02-23 Tue 09:35] DEADLINE: <2021-02-23 Tue 12:00>
+**** MIGRATED Exam 1
+CLOSED: [2021-03-01 Mon 10:38] SCHEDULED: <2021-03-05 Fri 10:20>
+** Orgs
+*** MUN [100%]
+**** DONE MUNE
+CLOSED: [2021-03-01 Mon 10:37] SCHEDULED: <2021-02-26 Fri 11:00>
+**** DONE Sec + Gen Meeting
+CLOSED: [2021-02-23 Tue 20:06] SCHEDULED: <2021-02-23 Tue 19:30>
+*** UGAHacks [100%]
+**** DONE Directors Meeting
+CLOSED: [2021-02-24 Wed 23:16] SCHEDULED: <2021-02-24 Wed 20:00>
+*** FRC [100%]
+** Tutoring
+*** DONE Tom
+CLOSED: [2021-02-25 Thu 18:30] SCHEDULED: <2021-02-25 Thu 18:30>
+*** DONE Mebin
+CLOSED: [2021-02-24 Wed 17:23]
+*** DONE Debate 1
+CLOSED: [2021-02-25 Thu 18:12] SCHEDULED: <2021-02-25 Thu 16:00>
+*** DONE Debate 2
+CLOSED: [2021-03-01 Mon 10:37]
+*** ABANDONED Noah
+CLOSED: [2021-03-01 Mon 10:37]
+** Misc
+*** DONE SSRL Interview
+CLOSED: [2021-02-25 Thu 18:12] SCHEDULED: <2021-02-25 Thu 17:15>
+*** DONE Finch Meeting
+CLOSED: [2021-02-24 Wed 23:16] SCHEDULED: <2021-02-24 Wed 21:00>
+*** DONE Advising
+CLOSED: [2021-02-25 Thu 14:02] SCHEDULED: <2021-02-25 Thu 10:00>
+*** DONE Iliev Meeting
+CLOSED: [2021-02-24 Wed 17:23] SCHEDULED: <2021-02-24 Wed 15:00>
+*** DONE Domain Redirect
+CLOSED: [2021-02-22 Mon 18:56] SCHEDULED: <2021-02-22 Mon 18:40>
+*** DONE Housing Contract
+CLOSED: [2021-02-24 Wed 17:24] DEADLINE: <2021-02-25 Thu>
+*** ABANDONED CogSci Meeting
+CLOSED: [2021-02-24 Wed 17:23] SCHEDULED: <2021-02-24 Wed 17:00>
+*** MIGRATED Saglam Meeting
+CLOSED: [2021-02-24 Wed 18:15]
+* 02.14.21
+** CMU
+*** MIGRATED ACT Score
+CLOSED: [2021-02-22 Mon 10:18]
+*** MIGRATED College Report
+CLOSED: [2021-02-22 Mon 10:18]
+*** MIGRATED Rec 1
+CLOSED: [2021-02-22 Mon 10:18]
+** School
+*** CSCI2720 [100%]
+**** ABANDONED Pointer Review
+CLOSED: [2021-02-18 Thu 19:17]
+*** CSCI2670 [100%]
+**** MIGRATED Exam 1
+CLOSED: [2021-02-18 Thu 19:18]
+**** DONE CW4
+CLOSED: [2021-02-17 Wed 15:19]
+*** INTL4440 [100%]
+**** DONE Lecture 1
+CLOSED: [2021-02-18 Thu 18:48]
+**** DONE Assn02
+CLOSED: [2021-02-17 Wed 15:20]
+*** INTL4710 [100%]
+*** INTL4260 [100%]
+**** DONE IRB Training
+CLOSED: [2021-02-18 Thu 12:05]
+** Orgs
+*** MUN [100%]
+**** DONE Sec + Gen Meeting
+CLOSED: [2021-02-17 Wed 15:21]
+*** UGAHacks [100%]
+**** MIGRATED Packing Day
+CLOSED: [2021-02-19 Fri 17:16]
+**** DONE ACM Meeting
+CLOSED: [2021-02-18 Thu 19:17] SCHEDULED: <2021-02-18 Thu 19:00>
+*** FRC [100%]
+** Tutoring
+*** DONE Debate 2
+CLOSED: [2021-02-20 Sat 23:48] SCHEDULED: <2021-02-20 Sat 10:00>
+*** DONE Debate 1
+CLOSED: [2021-02-19 Fri 17:14] SCHEDULED: <2021-02-19 Fri 15:00>
+*** DONE Mebin
+CLOSED: [2021-02-17 Wed 16:33]
+*** DONE Noah
+CLOSED: [2021-02-17 Wed 15:22]
+*** ABANDONED Tom
+CLOSED: [2021-02-19 Fri 17:15] DEADLINE: <2021-02-19 Fri 12:30>
+** Misc
+*** MIGRATED Advising
+CLOSED: [2021-02-18 Thu 19:18] SCHEDULED: <2021-02-27 Sat 10:00>
+* 02.07.21
+** CMU
+*** DONE Exp Section
+CLOSED: [2021-02-14 Sun 22:23]
+*** DONE Achievements Section
+CLOSED: [2021-02-14 Sun 22:23]
+*** DONE Short Essay Prompts
+CLOSED: [2021-02-17 Wed 15:17]
+*** DONE Course Catalogs
+CLOSED: [2021-02-14 Sun 22:23]
+*** MIGRATED Score Sends
+CLOSED: [2021-02-17 Wed 15:22]
+**** MIGRATED ACT
+CLOSED: [2021-02-17 Wed 15:22]
+**** ABANDONED AP
+CLOSED: [2021-02-08 Mon 10:20]
+**** DONE High School Transcript
+CLOSED: [2021-02-02 Tue 12:49]
+**** DONE College Transcript
+CLOSED: [2021-02-11 Thu 10:25]
+*** MIGRATED College Report
+CLOSED: [2021-02-17 Wed 15:22]
+*** MIGRATED Rec 1
+CLOSED: [2021-02-17 Wed 15:22]
+** School
+*** CSCI2720
+**** DONE HW1
+CLOSED: [2021-02-14 Sun 22:23] DEADLINE: <2021-02-16 Tue>
+*** CSCI2670
+**** MIGRATED Exam 1
+CLOSED: [2021-02-17 Wed 15:23]
+*** INTL4440
+**** DONE Essay 2
+CLOSED: [2021-02-17 Wed 15:17] DEADLINE: <2021-02-15 Mon>
+**** DONE Lecture 1
+CLOSED: [2021-02-11 Thu 10:25] DEADLINE: <2021-02-10 Wed>
+**** DONE Mercado
+CLOSED: [2021-02-10 Wed 10:33]
+**** DONE Richelson
+CLOSED
+*** INTL4260
+**** ABANDONED Essay 3
+CLOSED: [2021-02-17 Wed 15:17]
+**** DONE Berejikian
+CLOSED: [2021-02-10 Wed 10:32]
+
+*** INTL4710
+**** DONE Opening Speech
+CLOSED: [2021-02-11 Thu 10:30] DEADLINE: <2021-02-11 Thu>
+** Orgs
+*** UGAHacks
+**** DONE Exit Interview
+CLOSED: [2021-02-14 Sun 22:23] SCHEDULED: <2021-02-13 Sat 14:00>
+*** UGAMUN
+**** DONE Meeting
+CLOSED: [2021-02-12 Fri 14:09]
+*** WebDev
+**** DONE Final Site
+CLOSED: [2021-02-17 Wed 15:17]
+**** DONE Initial Design
+CLOSED: [2021-02-12 Fri 14:09]
+** Tutoring
+*** DONE Debate 2
+CLOSED: [2021-02-14 Sun 22:23]
+*** ABANDONED Mebin
+CLOSED: [2021-02-14 Sun 22:23]
+*** DONE Debate 1
+CLOSED: [2021-02-14 Sun 22:23]
+*** DONE Noah
+CLOSED: [2021-02-11 Thu 18:10]
+*** ABANDONED Tom
+CLOSED: [2021-02-11 Thu 18:10]
+*** Payment [100%]
+**** DONE Antony
+CLOSED: [2021-02-17 Wed 15:17]
+**** DONE Uday
+CLOSED: [2021-02-17 Wed 15:17]
+**** DONE Tom
+CLOSED: [2021-02-12 Fri 14:08]
+**** DONE Noah
+CLOSED: [2021-02-12 Fri 14:08]
+**** DONE Allen
+CLOSED: [2021-02-11 Thu 17:47]
+**** DONE Sam
+CLOSED: [2021-02-11 Thu 17:47]
+**** DONE Mebin
+CLOSED: [2021-02-02 Tue 11:28]
+**** DONE Arjun
+CLOSED: [2021-02-11 Thu 17:40]
+* 02.01.21
+** CMU
+*** MIGRATED Exp Section
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Achievements Section
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Short Essay Prompts
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Course Catalogs
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Score Sends
+CLOSED: [2021-02-10 Wed 10:25]
+**** MIGRATED ACT
+CLOSED: [2021-02-10 Wed 10:25]
+**** ABANDONED AP
+CLOSED: [2021-02-08 Mon 10:20]
+**** DONE Transcript
+CLOSED: [2021-02-02 Tue 12:49]
+*** MIGRATED College Report
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Rec 1
+CLOSED: [2021-02-10 Wed 10:25]
+** School
+*** CSCI2720 [100%]
+**** DONE Assn01
+**** DONE Quiz01
+CLOSED: [2021-02-04 Thu 23:18] SCHEDULED: <2021-02-04 Thu>
+*** CSCI2670 [100%]
+**** DONE HW1
+CLOSED: [2021-02-08 Mon 10:20] DEADLINE: <2021-02-05 Fri>
+**** DONE CW2
+CLOSED: [2021-02-03 Wed 10:25] DEADLINE: <2021-02-02 Tue>
+**** DONE Exam 1
+CLOSED: [2021-02-10 Wed 10:27]
+*** INTL4440 [100%]
+**** MIGRATED Anton
+CLOSED: [2021-02-10 Wed 10:26]
+**** MIGRATED Duczynski
+CLOSED: [2021-02-10 Wed 10:26]
+**** MIGRATED Sallot
+CLOSED: [2021-02-10 Wed 10:26]
+**** MIGRATED McDowell
+CLOSED: [2021-02-10 Wed 10:26]
+*** INTL4260 [100%]
+**** DONE Jervis
+CLOSED: [2021-02-09 Tue 11:23]
+**** DONE Werner
+CLOSED: [2021-02-09 Tue 11:23]
+**** DONE Camerer
+CLOSED: [2021-02-09 Tue 11:23]
+*** INTL4710 [100%]
+**** DONE Mod1 Work Quiz
+CLOSED: [2021-02-09 Tue 11:27] DEADLINE: <2021-02-09 Tue>
+*** Research
+**** DONE SPIA URC App
+CLOSED: [2021-02-10 Wed 10:26] DEADLINE: <2021-02-18 Thu>
+** Orgs
+*** MUN [100%]
+**** DONE Headshot + Bio Activation
+CLOSED: [2021-02-03 Wed 10:25] DEADLINE: <2021-02-02 Tue>
+*** Finch [100%]
+**** DONE Audio Editing
+CLOSED: [2021-02-04 Thu 23:18] DEADLINE: <2021-02-04 Thu>
+**** DONE AfterDark Intro
+CLOSED: [2021-02-04 Thu 23:18] DEADLINE: <2021-02-04 Thu>
+*** UGAHacks [100%]
+**** DONE Hacker Workshop Meeting
+CLOSED: [2021-02-04 Thu 23:18] SCHEDULED: <2021-02-04 Thu 19:30>
+**** DONE Final Town Hall
+CLOSED: [2021-02-04 Thu 23:18] SCHEDULED: <2021-02-04 Thu 19:00>
+*** FRC [100%]
+** Tutoring
+*** DONE Noah
+CLOSED: [2021-02-08 Mon 10:20]
+*** DONE Debate 1
+CLOSED: [2021-02-08 Mon 10:20]
+*** ABANDONED Debate 2
+CLOSED: [2021-02-08 Mon 10:20]
+*** DONE Mebin
+CLOSED: [2021-02-03 Wed 10:25] SCHEDULED: <2021-02-02 Tue 16:00>
+*** DONE Tom
+CLOSED: [2021-02-02 Tue 11:22]
+*** Payment [100%]
+**** MIGRATED Noah
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Tom
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Uday
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Allen
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Arjun
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Sam
+CLOSED: [2021-02-11 Thu 17:40]
+**** MIGRATED Antony
+CLOSED: [2021-02-11 Thu 17:40]
+**** DONE Mebin
+CLOSED: [2021-02-02 Tue 11:28]
+
 * 01.25.21
 ** CMU
 *** MIGRATED Exp Section
@@ -62,6 +2158,7 @@ CLOSED: [2021-01-27 Wed 17:40]
 CLOSED: [2021-01-25 Mon 10:31]
 *** Research [100%]
 **** MIGRATED SPIA URC App
+
 CLOSED: [2021-02-08 Mon 18:58]
 **** DONE Research Design Section
 CLOSED: [2021-02-01 Mon 02:23] DEADLINE: <2021-01-31 Sun>
@@ -228,6 +2325,8 @@ SCHEDULED: <2021-01-07 Thu 12:00>
 *** MIGRATED IBA Judging
 *** DONE Spencer
 
+# Fall 2020
+# Fall 2020
 * Final Exams
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-01-30 Sat 10:35
@@ -1446,6 +3545,7 @@ DEADLINE: <2020-09-18 Fri>
 
 *** MIGRATED Norman, PLA
 
+# Templates
 * Template Spring 2021
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-01-30 Sat 10:35
